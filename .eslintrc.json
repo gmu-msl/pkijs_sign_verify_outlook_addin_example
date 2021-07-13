@@ -1,0 +1,14 @@
+{
+  "env": {
+    "browser": true,
+    "node": true
+  },
+    
+  "plugins": [
+    "office-addins",
+    "jest"
+  ],
+  "extends": [
+    "plugin:office-addins/recommended"
+  ]
+}
